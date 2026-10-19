@@ -1,0 +1,101 @@
+{
+  "taskId": "144ab27534854e1a8089ec0450b53bd5",
+  "results": [
+    {
+      "inputId": "row-1",
+      "status": "success",
+      "outputs": {
+        "emailAddress": "b**@trigema.de",
+        "postalAddress": "Josef-Mayer-Str. 31-35, D-72393 Burladingen",
+        "agentConfidenceScore": 85,
+        "phoneNumber": "+49 (0) 7475/88 - 0",
+        "registrationNumber": "HRA 740365",
+        "firstName": "Wolfgang",
+        "companyName": "Trigema W. Grupp KG",
+        "impressumUrl": "https://www.trigema.de/kundenservice/rechtliches/impressum/",
+        "vatNumber": "DE144846566",
+        "lastName": "Grupp",
+        "gender": "male"
+      },
+      "creditsUsed": "10",
+      "error": null
+    },
+    {
+      "inputId": "row-2",
+      "status": "success",
+      "outputs": {
+        "emailAddress": "i**@hetzner.com",
+        "postalAddress": "Industriestr. 25, 91710 Gunzenhausen, Germany",
+        "agentConfidenceScore": 85,
+        "phoneNumber": "+49 (0)9831 505-0",
+        "registrationNumber": "HRB 6089",
+        "firstName": "Martin",
+        "companyName": "Hetzner Online GmbH",
+        "impressumUrl": null,
+        "vatNumber": "DE 812871812",
+        "lastName": "Hetzner",
+        "gender": "male"
+      },
+      "creditsUsed": "10",
+      "error": null
+    },
+    {
+      "inputId": "row-3",
+      "status": "success",
+      "outputs": {
+        "emailAddress": "i**@sipgate.de",
+        "postalAddress": "Gladbacher Straße 74, 40219 Düsseldorf",
+        "agentConfidenceScore": 90,
+        "phoneNumber": "+49 211 635555-0",
+        "registrationNumber": "HRB 39841",
+        "firstName": "Thilo",
+        "companyName": "sipgate GmbH",
+        "impressumUrl": null,
+        "vatNumber": "DE219349391",
+        "lastName": "Salmon",
+        "gender": "male"
+      },
+      "creditsUsed": "10",
+      "error": null
+    },
+    {
+      "inputId": "row-4",
+      "status": "success",
+      "outputs": {
+        "emailAddress": "s**@manomama.de",
+        "postalAddress": "Willy-Brandt-Platz 1a, 86153 Augsburg",
+        "agentConfidenceScore": 90,
+        "phoneNumber": "+49 (0)821 567 428 - 0",
+        "registrationNumber": "HRB 25182",
+        "firstName": "Sina",
+        "companyName": "MANOMAMA GmbH",
+        "impressumUrl": "https://www.manomama.de/pages/impressum",
+        "vatNumber": "",
+        "lastName": "Trinkwalder",
+        "gender": "female"
+      },
+      "creditsUsed": "10",
+      "error": null
+    },
+    {
+      "inputId": "row-5",
+      "status": "success",
+      "outputs": {
+        "emailAddress": "s**@service.vaude.com",
+        "postalAddress": "Vaude Straße 2, 88069 Tettnang",
+        "agentConfidenceScore": 90,
+        "phoneNumber": "0049 (0)7542-5306-0",
+        "registrationNumber": "HRB 631715",
+        "firstName": "Antje",
+        "companyName": "VAUDE Sport GmbH & Co. KG",
+        "impressumUrl": "https://www.vaude.com/de/de/impressum.html",
+        "vatNumber": "DE203894755",
+        "lastName": "von Dewitz",
+        "gender": "female"
+      },
+      "creditsUsed": "10",
+      "error": null
+    }
+  ],
+  "nextCursor": null
+}

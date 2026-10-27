@@ -11,6 +11,14 @@ also includes the Impressum URL and a confidence score when available.
 Use the results to enrich company records, research German businesses, or add
 business contact details to your own application.
 
+## Cost
+
+**10 credits per website processed.**
+
+Costs are in Datablist credits. Each result reports its actual `creditsUsed`.
+See the [API cost and limits](https://platform.datablist.com/docs/enrichments/tools/impressum-scraper#credits-and-limits)
+and [credit pack pricing](https://www.datablist.com/pricing) for current rates.
+
 ## Get started
 
 Choose [Python](python/README.md) or [TypeScript](typescript/README.md).
@@ -28,11 +36,6 @@ python sync_requests.py
 
 Edit the `websites` list at the bottom of the script to use your own URLs.
 See the [Python guide](python/README.md) for setup and the async version.
-
-Each website uses account credits. See the current
-[credit cost and limits](https://platform.datablist.com/docs/enrichments/tools/impressum-scraper#credits-and-limits)
-and [pricing](https://www.datablist.com/pricing). Each result reports its actual
-`creditsUsed`.
 
 ## Input and output
 

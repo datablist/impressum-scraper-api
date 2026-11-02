@@ -1,7 +1,8 @@
 # Impressum Scraper API
 
 Extract company and contact details from German websites with the
-[Datablist](https://www.datablist.com/) Impressum Scraper API.
+Datablist
+[Impressum Scraper API](https://www.datablist.com/apis/impressum-scraper).
 
 Send a website URL. The API finds its Impressum or legal notice page and extracts
 available business details: company name, managing director's name, postal
@@ -13,7 +14,10 @@ business contact details to your own application.
 
 ## Cost
 
-**10 credits per website processed.**
+The base cost is **$1 for 1,000 credits** ($0.001 per credit, in USD).
+Larger top-up packages reduce the price per credit and per record.
+
+**10 credits ($0.01) per website processed.**
 
 Costs are in Datablist credits. Each result reports its actual `creditsUsed`.
 See the [API cost and limits](https://platform.datablist.com/docs/enrichments/tools/impressum-scraper#credits-and-limits)
@@ -184,3 +188,4 @@ See the [TypeScript guide](typescript/README.md) for editable inputs and setting
 - [Waterfall Email Finder API](https://github.com/datablist/waterfall-email-finder-api): find work emails from names and companies or LinkedIn URLs.
 - [Waterfall Phone Finder API](https://github.com/datablist/waterfall-phone-finder-api): find phone numbers from LinkedIn profile URLs.
 - [Waterfall Personal Email Finder API](https://github.com/datablist/waterfall-personal-email-finder-api): find personal email addresses from LinkedIn profile URLs.
+- [Instagram Followers Scraper API](https://github.com/datablist/instagram-followers-scraper-api): scrape followers or following lists from Instagram profiles.
